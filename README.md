@@ -42,6 +42,8 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="git" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" alt="git" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" alt="git" width="40" height="40"/> </a>
+  
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khab1bull0&show_icons=true&locale=en" alt="habibullo" /></p>
