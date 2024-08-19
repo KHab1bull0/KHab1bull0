@@ -44,7 +44,6 @@
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg"  width="50" height="50"/> </a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg"  width="50" height="50"/> </a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg"  width="50" height="50"/> </a>
-<a href="#"> <img src="https://github.com/devicons/devicon/tree/master/icons/docker/docker-original.svg"  width="50" height="50"/> </a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khab1bull0&show_icons=true&locale=en" alt="habibullo" /></p>
