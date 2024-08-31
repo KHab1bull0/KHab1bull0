@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khab1bull0&label=Profile%20views&color=0e75b6&style=flat" alt="habibullo" /> </p>
 
-- 🌱 I am an developer **JavaScript (ES6+),  TypeScript,  NodeJS,  ExpressJS,   Express Handlebars,  NestJS,  MongoDB, Mongoose,  PostgreSQL,  Sequelize, Prisma,  API /Rest-API, JWT, Authentication and RBAS, Git/Github,  HTML, CSS**
+- 🌱 I am an developer **JavaScript (ES6+),  TypeScript,  NodeJS,  ExpressJS,  NestJS,  MongoDB, Mongoose,  PostgreSQL,  Sequelize, Prisma,  API /Rest-API, JWT, Authentication and RBAS, Git/Github,  HTML, CSS**
 
 - 📝 I regularly write articles on [http://t.me/USTechblog](http://t.me/USTechBlog)
 
