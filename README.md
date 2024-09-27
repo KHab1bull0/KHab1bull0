@@ -46,5 +46,5 @@
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg"  width="50" height="50"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khab1bull0&show_icons=true&locale=en" alt="habibullo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=khab1bull0&show_icons=true&locale=en" alt="habibullo" /></p>
 
