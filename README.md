@@ -19,7 +19,7 @@
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
-<p align="left" style="background-color: azure;"> 
+<p align="left" style="background-color: white;"> 
 
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
