@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [http://t.me/BlogByHabibullo](http://t.me/BlogByHabibullo)
 
-- 💬 Ask me about **JavaScript, NodeJS, Express, MongoDB and others**
+- 💬 Ask me about **JavaScript, NodeJS, Express, NestJs, PostgresSql, MongoDB and others**
 
 - 📫 How to reach me **habibullotoyrilmasov@gmail.com**
 
