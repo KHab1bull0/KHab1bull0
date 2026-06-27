@@ -6,7 +6,7 @@
 
 - 🌱 I am an developer **JavaScript (ES6+),  TypeScript,  NodeJS,  ExpressJS,  NestJS,  MongoDB, Mongoose,  PostgreSQL,  Sequelize, TypeOrm Prisma,  API /Rest-API, JWT, Authentication and RBAS, Git/Github,  HTML, CSS, SASS, TailwindCSS, ReactJs**
 
-- 📝 I regularly write articles on [http://t.me/USTechBlog](http://t.me/USTechBlog)
+- 📝 I regularly write articles on [http://t.me/habibullo_blogs](http://t.me/habibullo_blogs)
 
 - 💬 Ask me about **JavaScript, NodeJS, Express, NestJs, PostgresSql, MongoDB and others**
 
